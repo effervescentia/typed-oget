@@ -1,0 +1,12 @@
+{
+  "name": "oget",
+  "main": "oget.d.ts",
+  "homepage": "https://github.com/zewish/oget#readme",
+  "version": "1.0.6",
+  "globalDevDependencies": {
+    "node": "registry:env/node#6.0.0+20160918225031"
+  },
+  "devDependencies": {
+    "blue-tape": "registry:npm/blue-tape#0.2.0+20160723033700"
+  }
+}
