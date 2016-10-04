@@ -1,5 +1,4 @@
-# Typed Oget  [![Build Status](https://travis-ci.org/effervescentia/typed-oget.svg?branch=master)](https://travis-ci.org/effervescentia/typed-oget)
-
+# Typed Oget  [![CircleCI](https://circleci.com/gh/effervescentia/typed-oget.svg?style=svg)](https://circleci.com/gh/effervescentia/typed-oget)
 
 The type definition for [`oget`](https://github.com/zewish/oget.git)
 
