@@ -1,5 +1,7 @@
 # Typed Oget  [![CircleCI](https://circleci.com/gh/effervescentia/typed-oget.svg?style=svg)](https://circleci.com/gh/effervescentia/typed-oget)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/effervescentia/typed-oget.svg)](https://greenkeeper.io/)
+
 The type definition for [`oget`](https://github.com/zewish/oget.git)
 
 ## LICENSE
